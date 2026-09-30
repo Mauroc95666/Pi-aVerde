@@ -1,0 +1,10 @@
+{
+  "name": "pinaverde-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Static site: no build needed\"",
+    "dev": "python -m http.server 4173",
+    "start": "python -m http.server 4173"
+  }
+}
